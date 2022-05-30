@@ -59,7 +59,6 @@ show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
-G-JJ4MP1C7Y3
   
 exclude:
   - docker-compose.yml
@@ -90,6 +89,7 @@ plugins:
   - jekyll-octicons
   - jekyll-toc
   - jekyll-twitter-plugin
+  - jekyll-scholar
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-remote-theme
