@@ -39,8 +39,8 @@ baseurl: "/Data_Science_Blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: 
+    github: ChengC2019
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -59,7 +59,7 @@ show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
-
+G-JJ4MP1C7Y3
   
 exclude:
   - docker-compose.yml
