@@ -40,7 +40,7 @@ baseurl: "/Data_Science_Blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     # twitter: 
-    scholar: 
+    #scholar: 
     github: ChengC2019
 
 # Set this to true to get LaTeX math equation support
@@ -90,7 +90,7 @@ plugins:
   - jekyll-octicons
   - jekyll-toc
   - jekyll-twitter-plugin
-  - jekyll-scholar
+  #- jekyll-scholar
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-remote-theme
