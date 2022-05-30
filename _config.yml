@@ -90,7 +90,7 @@ plugins:
   - jekyll-octicons
   - jekyll-toc
   - jekyll-twitter-plugin
-  - jekyll-Scholar
+  #- jekyll-Scholar
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-remote-theme
