@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Data_Science_Prjects
+description: Point Cloud Demo
 github_username: ChengC2019
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Data_Science_Blog"
@@ -59,7 +59,16 @@ show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-JJ4MP1C7Y3"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+ 		gtag('js', new Date());
 
+  		gtag('config', 'G-JJ4MP1C7Y3');
+	</script>
+  
 exclude:
   - docker-compose.yml
   - action.yml
